@@ -1,0 +1,25 @@
+{
+  "name": "ascii-helper",
+  "version": "1.0.0",
+  "description": "ASCII helper for encoding and decoding strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bej-Technologies/ascii-helper.git"
+  },
+  "keywords": [
+    "ascii"
+  ],
+  "author": "Bej Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bej-Technologies/ascii-helper/issues"
+  },
+  "homepage": "https://github.com/Bej-Technologies/ascii-helper#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
